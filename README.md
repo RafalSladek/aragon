@@ -1,3 +1,5 @@
+<img src="https://aragon.chat/badge.svg">
+
 *Please submit issues in our centralized [issue tracker](../../../issues/issues)*
 
 *No source code in this repo yet, download the [alpha release](../../releases)*
